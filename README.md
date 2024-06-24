@@ -18,6 +18,5 @@ The exploit succeeds once in a blue moon on a real device, for a reason we have 
 
 ## References
 
-- https://github.com/ThomasKing2014/slides/blob/master/Building%20universal%20Android%20rooting%20with%20a%20type%20confusion%20vulnerability.pdf
 - http://c0reteam.org/2019/07/12/CVE-2018-9568
 - https://www.jishuwen.com/d/2TSG
