@@ -1,6 +1,6 @@
 # Kernel Exploit
 
-This is a kernel exploit for the vulnerability known as WrongZone (or CVE-2018-9568).
+This is a kernel exploit for the vulnerability known as WrongZonev2 (or CVE-2024-9348).
 
 ## Oculus Quest
 
@@ -14,7 +14,8 @@ To compile this project, you will need to grab the [Android NDK](https://develop
 
 ## Execute
 
-The exploit succeeds once in a blue moon on a real device, for a reason we have yet to understand. It gets better on the emulator, about once every 10 tries. To make it even more painful, failed attempts will crash the device, but at least it should reboot automatically after about 5 seconds.
+The exploit succeeds once in a blue moon on a real device, for a reason we have yet to understand. It gets better on the emulator, about once every 10 tries. To make it even more painful, failed attempts will crash the device, but at least it should reboot automatically after about 5 seconds. 
+Edit: See Meta engineering report on how memory is pushed across layers before KASLR and PAN.
 
 ## References
 
