@@ -1,6 +1,6 @@
 # Kernel Exploit
 
-This is a kernel exploit for the vulnerability known as WrongZonev2 (or CVE-2024-9348).
+This is a kernel exploit for the vulnerability known as WrongZonev2 (or CVE-2024-9348: REMOVED AND ARCHIVED HERE).
 
 ## Oculus Quest 3|2|Pro and "Alleyway"
 
