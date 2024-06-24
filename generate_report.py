@@ -54,9 +54,9 @@ def generate_html_content():
             </div>
 
             <h2>Exploit Summary:</h2>
-            <p><strong>Repository:</strong> &lt;Your GitHub Repository URL&gt;</p>
-            <p><strong>Exploit Name:</strong> &lt;Exploit Name&gt;</p>
-            <p><strong>Exploit Description:</strong> &lt;Brief description of the exploit&gt;</p>
+            <p><strong>Repository:</strong> https://github.com/jtakilol/expert-fiesta </p>
+            <p><strong>Exploit Name:</strong> Memory: WrongZonev3.432.30</p>
+            <p><strong>Exploit Description:</strong> Built ffrom original WrongZone back in 2018, very hit and miss - can work on hardware and emulator kernal</p>
             <p><strong>Verified By:</strong> Meta Security Team</p>
 
             <h2>Verification Details:</h2>
@@ -70,9 +70,9 @@ def generate_html_content():
             </ul>
 
             <h2>Findings:</h2>
-            <p><strong>Impact Level:</strong> High/Medium/Low</p>
-            <p><strong>Affected Systems:</strong> List of affected systems</p>
-            <p><strong>Recommended Actions:</strong> List of recommended actions</p>
+            <p><strong>Impact Level:</strong> Medium</p>
+            <p><strong>Affected Systems:</strong> Quest 3 ("Stinson" "Eureka"), Quest 2 ("Mirimar" "Hollywood"), Quest Pro ("Cambria"), "Alleyway"</p>
+            <p><strong>Recommended Actions:</strong> (https://github.com/facebookincubator/oculus-linux-kernel/commit/589280fc40ddbcc2287024c8b672568a0fdd68e7#diff-56c7c22bc6dcdc2c4ff303ab61738ff2R1526) commit:589280f Ota.Ver: 333700.3370.0 [PATCHED]</p>
 
             <h2>Acknowledgements:</h2>
             <p>We appreciate the contribution to our ongoing efforts to maintain the security and integrity of our systems. The findings from this report will help in enhancing our security protocols.</p>
