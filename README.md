@@ -20,3 +20,4 @@ The exploit succeeds once in a blue moon on a real device, for a reason we have 
 
 - http://c0reteam.org/2019/07/12/CVE-2018-9568
 - https://www.jishuwen.com/d/2TSG
+- https://engineering.fb.com/2023/09/12/security/meta-quest-2-defense-through-offense/
