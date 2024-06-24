@@ -2,7 +2,7 @@
 
 This is a kernel exploit for the vulnerability known as WrongZonev2 (or CVE-2024-9348: REMOVED AND ARCHIVED HERE).
 
-## Oculus Quest 3|2|Pro and "Alleyway"
+## Oculus Quest + 3|2|Pro and "Alleyway"
 
 The Oculus Quest Series is vulnerable up to version `256550.6810.0`. [This commit](https://github.com/facebookincubator/oculus-linux-kernel/commit/589280fc40ddbcc2287024c8b672568a0fdd68e7#diff-56c7c22bc6dcdc2c4ff303ab61738ff2R1526) fixes the vulnerability and also introduces 2 mitigations: Kernel ASLR (KASLR) and Privileged Access Never (PAN).
 
